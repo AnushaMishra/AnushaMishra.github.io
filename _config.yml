@@ -1,0 +1,22 @@
+# Site settings. Edit these first.
+title: synnpse                 # display name; change to whatever you pick
+tagline: Building a brain in public. Half-finished work, honest notes.
+description: Notes from building small cognitive components: analogy, concept spaces, evals.
+url: "https://anushamishra.github.io"   # replace USERNAME with your GitHub username
+baseurl: ""
+twitter_handle: ""             # e.g. synnpse (no @)
+github_handle: ""              # your GitHub username
+
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - README.md
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
