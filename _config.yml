@@ -1,6 +1,6 @@
 # Site settings. Edit these first.
 title: synnpse                 # display name; change to whatever you pick
-tagline: Building a brain in public. Half-finished work, honest notes.
+tagline: Building a brain in public. Showing the process, not just the results.
 description: Notes from building small cognitive components, like analogy, concept spaces and evals.
 url: https://anushamishra.github.io
 baseurl: ""
