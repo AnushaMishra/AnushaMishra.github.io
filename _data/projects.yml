@@ -11,13 +11,13 @@
   blurb: A possible direction. Simulate one brain function and compare its performance to another approach.
 - id: dreamcoder
   title: DreamCoder literature review
-  type: idea
+  type: review
   parent: cognition
   status: draft
   blurb: Notes on DreamCoder and what it suggests for reasoning in ML.
 - id: analogy-review
   title: Cognition as analogy literature review
-  type: idea
+  type: review
   parent: cognition
   status: draft
   blurb: Literature review on analogy as a model of cognition.
