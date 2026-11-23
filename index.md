@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<p class="intro">{{ site.tagline }} I build small pieces of a cognitive architecture, test them, and write up what worked and what didn't, including the parts that are still broken.</p>
+<p class="intro">{{ site.tagline }}</p>
 
 <ul class="post-list">
 {% for post in site.posts %}
