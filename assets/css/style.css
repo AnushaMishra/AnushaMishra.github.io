@@ -103,3 +103,4 @@ img { max-width: 100%; }
 .map .clickable { cursor: pointer; }
 .map .clickable:hover .node { fill: var(--accent); }
 .map .static { opacity: .75; }
+.map .node.review { stroke-dasharray: 4 4; }
