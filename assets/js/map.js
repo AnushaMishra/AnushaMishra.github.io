@@ -5,7 +5,7 @@
   if (!el || !data.length) return;
   var W = 900, H = 640, cx = W / 2, cy = H / 2;
   var NS = 'http://www.w3.org/2000/svg';
-  var RAD = { hub: 46, topic: 34, project: 26, idea: 20 };
+  var RAD = { hub: 46, topic: 34, project: 26, idea: 20, review: 18 };
   var byId = {};
   data.forEach(function (n) { byId[n.id] = n; n.kids = []; });
   data.forEach(function (n) { if (n.parent && byId[n.parent]) byId[n.parent].kids.push(n); });
@@ -42,7 +42,7 @@
     g.setAttribute('class', href ? 'clickable' : 'static');
     var tip = mk('title', {}, g);
     tip.textContent = n.title + (n.status ? ' (' + n.status + ')' : '') + (n.blurb ? ' - ' + n.blurb : '');
-    mk('circle', { cx: x, cy: y, r: r, class: 'node ' + n.type }, g);
+    if (n.type === 'review') { mk('rect', { x: x - r, y: y - r, width: 2 * r, height: 2 * r, rx: 5, class: 'node ' + n.type }, g); } else { mk('circle', { cx: x, cy: y, r: r, class: 'node ' + n.type }, g); }
     var inside = n.type === 'hub';
     var lines = wrap(n.title, inside ? 10 : 16);
     var y0 = inside ? y - (lines.length - 1) * 7 + 5 : y + r + 16;
