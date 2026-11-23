@@ -92,3 +92,14 @@ img { max-width: 100%; }
   .highlight .mi, .highlight .mf { color: #ffa94d; }
   .highlight .nf, .highlight .nc { color: #8ea2ff; }
 }
+/* Projects map */
+.map svg { width: 100%; height: auto; display: block; margin: 1.5rem 0 2rem; }
+.map .link { stroke: var(--rule); stroke-width: 2; }
+.map .node { fill: var(--code-bg); stroke: var(--accent); stroke-width: 2; }
+.map .node.hub { fill: var(--accent); }
+.map .node.idea { stroke-dasharray: 4 4; }
+.map .label { fill: var(--fg); font: 13px ui-sans-serif, system-ui, sans-serif; }
+.map .label.hub { fill: var(--bg); font-weight: 700; }
+.map .clickable { cursor: pointer; }
+.map .clickable:hover .node { fill: var(--accent); }
+.map .static { opacity: .75; }
