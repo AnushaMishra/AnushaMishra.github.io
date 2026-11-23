@@ -3,12 +3,12 @@
   type: topic
   url: /cognition/
   blurb: Can ideas from cognitive science make modern models more generalizable? An early, open hypothesis.
-- id: brain-sim
-  title: Brain simulation
-  type: project
+- id: brain-function
+  title: Simulate a brain function
+  type: idea
   parent: cognition
-  status: in progress
-  blurb: Early-stage project. Details coming soon.
+  status: maybe
+  blurb: A possible direction. Simulate one brain function and compare its performance to another approach.
 - id: dreamcoder
   title: DreamCoder literature review
   type: idea
