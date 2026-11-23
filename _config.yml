@@ -4,7 +4,7 @@ tagline: Notes on ML, engineering and what I am learning.
 description: Notes on ML, engineering and what I am learning.
 url: https://anushamishra.github.io
 baseurl: ""
-twitter_handle: ""             # e.g. synnpse (no @)
+twitter_handle: anushabuilds
 github_handle: ""              # your GitHub username
 
 markdown: kramdown
