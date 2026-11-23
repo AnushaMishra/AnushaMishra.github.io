@@ -2,7 +2,7 @@
   title: Cognition and reasoning
   type: topic
   url: /cognition/
-  blurb: Applying ideas from cognitive science and the brain to ML reasoning.
+  blurb: Can ideas from cognitive science make modern models more generalizable? An early, open hypothesis.
 - id: brain-sim
   title: Brain simulation
   type: project
