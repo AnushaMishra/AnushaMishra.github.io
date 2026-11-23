@@ -10,14 +10,14 @@
   status: maybe
   blurb: A possible direction. Simulate one brain function and compare its performance to another approach.
 - id: dreamcoder
-  title: DreamCoder literature review
+  title: DreamCoder
   type: review
   parent: cognition
   status: draft
   blurb: Notes on DreamCoder and what it suggests for reasoning in ML.
 - id: analogy-review
-  title: Cognition as analogy literature review
+  title: Hofstadter, Cognition as analogy
   type: review
   parent: cognition
   status: draft
-  blurb: Literature review on analogy as a model of cognition.
+  blurb: Hofstadter on analogy as the core of cognition, and what it could mean for ML.
