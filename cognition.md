@@ -12,5 +12,7 @@ permalink: /cognition/
 
 It is too early for an exact question, so this is an open exploration. I'm reading what has been tried, then testing small pieces where I can, and writing it up as I go.
 
+**One possible direction:** simulate a single brain function and compare its performance to another approach.
+
 {% for post in site.posts %}{% if post.section == "cognition" %}
 - [{{ post.title }}]({{ post.url | relative_url }}) - {{ post.date | date: "%B %-d, %Y" }}{% endif %}{% endfor %}
