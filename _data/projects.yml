@@ -15,3 +15,9 @@
   parent: cognition
   status: draft
   blurb: Notes on DreamCoder and what it suggests for reasoning in ML.
+- id: analogy-review
+  title: Cognition as analogy literature review
+  type: idea
+  parent: cognition
+  status: draft
+  blurb: Literature review on analogy as a model of cognition.
