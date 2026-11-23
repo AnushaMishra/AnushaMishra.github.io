@@ -8,7 +8,7 @@ permalink: /about/
 
 This blog is a running log of small experiments in building cognition from the bottom up. The main project is a brain simulation of two real people, built from their writing, using an analogy-based cognitive architecture instead of just prompting a language model.
 
-I work in ML and NLP, with a background in computer science and linguistics. Posts are written at unfinished points on purpose. If something is half-working, I'd rather show it and discuss it than wait until it's polished.
+I work in ML and NLP, with a background in computer science and linguistics. The point of this blog is to show the process: the ideas, the experiments, the dead ends and what I learned from them, shared as I go instead of after the fact.
 
 ## What to expect
 
