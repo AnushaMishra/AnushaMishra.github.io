@@ -1,11 +1,15 @@
 ---
-layout: default
-title: About
 permalink: /about/
 ---
-
-# About
-
-I work in ML and NLP, with a background in computer science and linguistics. This is where I share what I'm building and learning, including the process.
-
-{% include profile-card.html %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting...</title>
+  <link rel="canonical" href="{{ '/' | absolute_url }}">
+  <meta http-equiv="refresh" content="0; url={{ '/' | relative_url }}">
+</head>
+<body>
+  <p>This page moved to <a href="{{ '/' | relative_url }}">the home page</a>.</p>
+</body>
+</html>
