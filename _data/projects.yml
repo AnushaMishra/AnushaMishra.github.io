@@ -12,6 +12,7 @@
   title: DreamCoder
   type: review
   parent: cognition
+  url: /dreamcoder/
   blurb: Notes on DreamCoder and what it suggests for reasoning in ML.
 - id: analogy-review
   title: Hofstadter, Cognition as analogy
