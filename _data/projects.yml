@@ -1,0 +1,17 @@
+- id: cognition
+  title: Cognition and reasoning
+  type: topic
+  url: /cognition/
+  blurb: Applying ideas from cognitive science and the brain to ML reasoning.
+- id: brain-sim
+  title: Brain simulation
+  type: project
+  parent: cognition
+  status: in progress
+  blurb: Early-stage project. Details coming soon.
+- id: dreamcoder
+  title: DreamCoder literature review
+  type: idea
+  parent: cognition
+  status: draft
+  blurb: Notes on DreamCoder and what it suggests for reasoning in ML.
