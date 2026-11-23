@@ -6,6 +6,11 @@ url: https://anushamishra.github.io
 baseurl: ""
 twitter_handle: anushabuilds
 github_handle: ""              # your GitHub username
+linkedin_url: "https://www.linkedin.com/in/anusha-mishra-ba84a91b9/"
+
+# Profile card (About page)
+profile_name: Anusha Mishra
+profile_blurb: Machine learning and NLP. Building and learning in public.
 
 markdown: kramdown
 highlighter: rouge
