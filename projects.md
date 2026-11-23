@@ -19,5 +19,5 @@ window.PROJECT_NODES = {{ site.data.projects | jsonify }};
 ## All projects and ideas
 
 {% for n in site.data.projects %}
-- {% if n.url %}[{{ n.title }}]({{ n.url | relative_url }}){% else %}{{ n.title }}{% endif %} ({{ n.type }}{% if n.status %}, {{ n.status }}{% endif %}){% if n.blurb %} - {{ n.blurb }}{% endif %}
+- {% if n.url %}[{{ n.title }}]({{ n.url | relative_url }}){% else %}{{ n.title }}{% endif %} ({% if n.type == "review" %}literature review{% else %}{{ n.type }}{% endif %}{% if n.status %}, {{ n.status }}{% endif %}){% if n.blurb %} - {{ n.blurb }}{% endif %}
 {% endfor %}
