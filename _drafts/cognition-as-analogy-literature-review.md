@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Literature review: cognition as analogy"
+title: "Hofstadter, Cognition as analogy"
 section: cognition
 status: draft
 description: ""
