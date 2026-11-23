@@ -1,7 +1,7 @@
 # Site settings. Edit these first.
 title: synnpse                 # display name; change to whatever you pick
-tagline: Building a brain in public. Showing the process, not just the results.
-description: Notes from building small cognitive components, like analogy, concept spaces and evals.
+tagline: Applying cognitive science to ML reasoning.
+description: Exploring how ideas from cognitive science can be applied to ML reasoning. Sharing the process as I go.
 url: https://anushamishra.github.io
 baseurl: ""
 twitter_handle: ""             # e.g. synnpse (no @)
