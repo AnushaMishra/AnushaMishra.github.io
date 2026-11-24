@@ -4,7 +4,7 @@ title: Douglas Hofstadter, Analogy as the Core of Cognition
 permalink: /hofstadter/
 ---
 
-# Hofstadter, Cognition as analogy
+# Hofstadter, Analogy as the Core of Cognition
 
 Plain text summarizes the source. Indented blocks marked **My note** are my own thoughts and questions.
 
