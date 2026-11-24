@@ -6,6 +6,8 @@ permalink: /hofstadter/
 
 # Hofstadter, Cognition as analogy
 
+Plain text summarizes the source. Indented blocks marked **My note** are my own thoughts and questions.
+
 ## Summary
 
 Texts referenced: *Gödel, Escher, Bach: An Eternal Golden Braid*, which is about how cognition, intelligence and consciousness emerge from inanimate matter, and *Analogy as the Core of Cognition*.
@@ -32,6 +34,8 @@ The central claim is that analogical reasoning is closely tied to problem solvin
 - Eventually the "membrane" disappears. The individual instances inside a concept vanish and the concept is a black box, though it may be semi-visible.
 - When you think "airline" you don't think about plane, company, brand, routes, trips, money, hub and so on. It is all one chunked concept.
 
+> **My note:** Trauma? Maybe this visibility and lack of visibility is related to trauma and emotional reactions. If you haven't done therapy, you may often act in ways you don't understand or feel things you don't understand. Part of CBT seeks to find the underlying core beliefs behind different everyday situations, which involves really looking back on your history too. Is this the basis of therapy, especially CBT?
+
 **The continuum of concepts**
 
 There is no fundamental difference between primordial tangible concepts and highly chunked abstract concepts. Once you know them, you know them. "Chair" is just as known as "sleazeball".
@@ -49,11 +53,19 @@ There is no fundamental difference between primordial tangible concepts and high
 - *Pronunciation distortions:* blends can be subtle. "I was having trouble finding it" (find / figure out). "It was po-ized on the banister" (posed / poised). Sometimes you start a word wrong because you were about to say a different word.
 - *Phrase blends:* "I hope the package got there in one shape" (in one piece / in good shape).
 
+> **My note:** What connection is there to people with bad memories who do this more often than others? Or to a lack of confidence in your analogical capabilities?
+
 This reveals the subterranean competition. When the battle is a landslide, there is no evidence. When the battle is close, there is evidence galore.
+
+> **My note:** What happens when we only have very weak analogies, like when a baby is learning to walk?
 
 **Scientific discovery.** Nobody had thought of connecting ideal gas, light and molecules. Einstein made the discovery based on a connection between two bell curves.
 
+> **My note:** Is intelligence determined by the quality of analogy making? Probably quantity too.
+
 ## Relevance to my question
+
+> **My note:** Everything in this section is my own thinking about how these ideas can be translated into mathematical, computer science, or ML techniques.
 
 **Benchmarking (ConceptARC).** Things a benchmark should test:
 
@@ -62,6 +74,8 @@ This reveals the subterranean competition. When the battle is a landslide, there
 - The "fighting" mechanism, where concepts compete
 - Analogy, including analogy without a purpose
 - Quality and quantity as separate parameters of analogy
+
+Letter-string example from my notes: abc → xyz :: def → ? (candidate answers tuv or dez).
 
 **Concept formation and representation.** A concept must be able to:
 
@@ -88,7 +102,7 @@ Dirichlet process clustering is the growth mechanism.
 - Is intelligence determined by the quality of analogy making? Probably quantity too.
 - What happens when we only have very weak analogies, like when a baby is learning to walk?
 - Is there a connection between people with bad memories who produce blends more often than others, or a lack of confidence in one's analogical capabilities?
-- Does chunking, and the "black box" it creates, have anything to say about trauma and CBT?
+- Is the visibility or invisibility of a chunked concept related to trauma and emotional reactions, including acting or feeling in ways we don't understand? Could CBT's search for core beliefs be a way of opening the black box?
 
 ## References
 
