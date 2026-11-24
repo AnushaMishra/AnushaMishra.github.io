@@ -61,7 +61,7 @@ This reveals the subterranean competition. When the battle is a landslide, there
 
 **Scientific discovery.** Nobody had thought of connecting ideal gas, light and molecules. Einstein made the discovery based on a connection between two bell curves.
 
-> **My note:** Is intelligence determined by the quality of analogy making? Probably quantity too.
+> **My note:** Is intelligence determined by the quality of analogy making? Maybe the quantity of analogies of quantity of remote but sound analogies.
 
 ## Relevance to my question
 
