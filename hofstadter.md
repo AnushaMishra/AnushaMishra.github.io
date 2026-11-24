@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hofstadter, Cognition as analogy
+title: Douglas Hofstadter, Analogy as the Core of Cognition
 permalink: /hofstadter/
 ---
 
